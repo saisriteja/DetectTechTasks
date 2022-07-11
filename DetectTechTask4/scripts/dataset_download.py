@@ -11,10 +11,11 @@ import os
 # https://drive.google.com/file/d/1UA3BBXQcKh0zAwJYwVTTX0i3wE_Fd43y/view?usp=sharing
 # https://drive.google.com/file/d/17EAQ-L7BYZqIX5_APKHArcUvddkMIWzG/view?usp=sharing
 # https://drive.google.com/file/d/1BwiWGzU3njVxt-0Lm4smcEWDOnM8oHaa/view?usp=sharing
+
+
 url = 'https://drive.google.com/uc?id=1BwiWGzU3njVxt-0Lm4smcEWDOnM8oHaa'
 output = 'val.zip'
 gdown.download(url, output, quiet=False)
-# https://drive.google.com/file/d/1PYf4vEWH74JMgkmJ3lEsFqHk6TtwiqNG/view?usp=sharing
 
 
 # url = 'https://drive.google.com/uc?id=1a2oHjcEcwXP8oUF95qiwrqzACb2YlUhn'
